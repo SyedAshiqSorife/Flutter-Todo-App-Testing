@@ -1,3 +1,21 @@
+# Instructions
+
+- To run test please open the emulator
+- Go to the project root folder from terminal
+- Test files are in test/ folder
+- To run the test follow the below commands
+
+flutter drive --driver=test_driver/integration_test.dart --target=test/test_one.dart
+
+flutter drive --driver=test_driver/integration_test.dart --target=test/test_two.dart
+
+flutter drive --driver=test_driver/integration_test.dart --target=test/test_three.dart
+
+flutter drive --driver=test_driver/integration_test.dart --target=test/test_four.dart
+
+flutter drive --driver=test_driver/integration_test.dart --target=test/test_five.dart
+
+
 # Flutter TodoList Tutorial
 
 Create a simple todolist Flutter application
